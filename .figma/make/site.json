@@ -1,0 +1,10 @@
+{
+  "description": "Provides university students with an intuitive PWA featuring campus maps, room navigation, schedules, and personalized recommendations in a minimalist UI.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
